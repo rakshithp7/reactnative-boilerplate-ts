@@ -29,5 +29,5 @@ npm install
 # To start the server
 
 ```
-expo starts
+expo start
 ```
